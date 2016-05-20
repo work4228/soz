@@ -1,0 +1,2 @@
+# soz
+corporate_static
